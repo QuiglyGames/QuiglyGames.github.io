@@ -1,0 +1,21 @@
+﻿@font-face {
+    font-family: geometria;
+    src: url(Geometria-Bold.eot);
+    src: local('Geometria Bold'), local('Geometria-Bold'), url(Geometria-Bold-1.eot) format('embedded-opentype'), url(Geometria-Bold.woff) format('woff'), url(Geometria-Bold.ttf) format('truetype');
+    font-weight: 700;
+    font-style: normal
+}
+@font-face {
+    font-family: lato;
+    src: url(Lato-Medium.eot);
+    src: local('Lato Medium'), local('Lato-Medium'), url(Lato-Medium-1.eot) format('embedded-opentype'), url(Lato-Medium.woff) format('woff'), url(Lato-Medium.ttf) format('truetype');
+    font-weight: 500;
+    font-style: normal
+}
+
+@font-face {
+    font-family:beaumaris;
+    src: url(beaumaris.eot);
+    src: local('beaumaris'), local('beaumaris'), url(beaumaris-1.eot) format('embedded-opentype'), url(beaumaris.woff) format('woff'), url(beaumaris.ttf) format('truetype');
+    font-weight: 600;
+    font-style: normal
